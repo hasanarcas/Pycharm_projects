@@ -1,0 +1,56 @@
+Will run Name: T1
+Priority: 4
+Burst remaing: 10
+
+Will run Name: T4
+Priority: 3
+Burst remaing: 5
+
+Will run Name: T2
+Priority: 2
+Burst remaing: 15
+
+Will run Name: T5
+Priority: 10
+Burst remaing: 0
+
+Task T5 finished
+
+Will run Name: T3
+Priority: 3
+Burst remaing: 15
+
+Will run Name: T1
+Priority: 4
+Burst remaing: 0
+
+Task T1 finished
+
+Will run Name: T4
+Priority: 3
+Burst remaing: 0
+
+Task T4 finished
+
+Will run Name: T2
+Priority: 2
+Burst remaing: 5
+
+Will run Name: T3
+Priority: 3
+Burst remaing: 5
+
+Will run Name: T2
+Priority: 2
+Burst remaing: 0
+
+Task T2 finished
+
+Will run Name: T3
+Priority: 3
+Burst remaing: 0
+
+Task T3 finished
+
+Average Turnaround Time: 67.4
+Average Waiting Time: 48.4
