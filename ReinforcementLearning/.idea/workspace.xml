@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="901238b9-fa50-435e-bb1c-47996ba79ac2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SnakeGame/logs/1645030896/PPO_0/events.out.tfevents.1645040238.DESKTOP-OJGFFNM.13072.12" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeGame/logs/1645030896/PPO_0/events.out.tfevents.1645040238.DESKTOP-OJGFFNM.13072.12" afterDir="false" />
-    </list>
+    <list default="true" id="901238b9-fa50-435e-bb1c-47996ba79ac2" name="Changes" comment="finished project, snake still stupid..." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +72,14 @@
       <option name="presentableId" value="Default" />
       <updated>1644947510844</updated>
     </task>
+    <task id="LOCAL-00001" summary="finished project, snake still stupid...">
+      <created>1645044637242</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645044637242</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,5 +95,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="finished project, snake still stupid..." />
+    <option name="LAST_COMMIT_MESSAGE" value="finished project, snake still stupid..." />
   </component>
 </project>
