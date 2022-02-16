@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="901238b9-fa50-435e-bb1c-47996ba79ac2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SnakeGame/logs/1645030896/PPO_0/events.out.tfevents.1645040238.DESKTOP-OJGFFNM.13072.12" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeGame/logs/1645030896/PPO_0/events.out.tfevents.1645040238.DESKTOP-OJGFFNM.13072.12" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/LunarLander/test.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SnakeGame/snakePlay.py" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -44,18 +45,18 @@
   </component>
   <component name="RunManager">
     <configuration name="test" type="PythonConfigurationType" factoryName="Python">
-      <module name="ReinforcementLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\hasan\anaconda3\envs\DataScience\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LunarLander" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SnakeGame" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\hasan\Desktop\Projects\Python Projects\Pycharm_projects\ReinforcementLearning\LunarLander\PPO_model_save.py" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SnakeGame/snakePlay.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
