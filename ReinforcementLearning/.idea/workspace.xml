@@ -1,128 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="901238b9-fa50-435e-bb1c-47996ba79ac2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/.idea/ReinforcementLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/PPO_model_load.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/PPO_model_save.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645001768.DESKTOP-OJGFFNM.14012.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645001790.DESKTOP-OJGFFNM.14012.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645001818.DESKTOP-OJGFFNM.14012.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645001853.DESKTOP-OJGFFNM.14012.3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645001893.DESKTOP-OJGFFNM.14012.4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645001928.DESKTOP-OJGFFNM.14012.5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645001963.DESKTOP-OJGFFNM.14012.6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645001998.DESKTOP-OJGFFNM.14012.7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002034.DESKTOP-OJGFFNM.14012.8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002067.DESKTOP-OJGFFNM.14012.9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002100.DESKTOP-OJGFFNM.14012.10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002132.DESKTOP-OJGFFNM.14012.11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002165.DESKTOP-OJGFFNM.14012.12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002197.DESKTOP-OJGFFNM.14012.13" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002229.DESKTOP-OJGFFNM.14012.14" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002262.DESKTOP-OJGFFNM.14012.15" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002293.DESKTOP-OJGFFNM.14012.16" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002325.DESKTOP-OJGFFNM.14012.17" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002357.DESKTOP-OJGFFNM.14012.18" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002388.DESKTOP-OJGFFNM.14012.19" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002420.DESKTOP-OJGFFNM.14012.20" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002453.DESKTOP-OJGFFNM.14012.21" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002485.DESKTOP-OJGFFNM.14012.22" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002519.DESKTOP-OJGFFNM.14012.23" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002550.DESKTOP-OJGFFNM.14012.24" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002584.DESKTOP-OJGFFNM.14012.25" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002618.DESKTOP-OJGFFNM.14012.26" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002652.DESKTOP-OJGFFNM.14012.27" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002686.DESKTOP-OJGFFNM.14012.28" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002719.DESKTOP-OJGFFNM.14012.29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002751.DESKTOP-OJGFFNM.14012.30" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002782.DESKTOP-OJGFFNM.14012.31" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002811.DESKTOP-OJGFFNM.14012.32" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002841.DESKTOP-OJGFFNM.14012.33" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002872.DESKTOP-OJGFFNM.14012.34" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002901.DESKTOP-OJGFFNM.14012.35" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002928.DESKTOP-OJGFFNM.14012.36" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002955.DESKTOP-OJGFFNM.14012.37" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645002981.DESKTOP-OJGFFNM.14012.38" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645003007.DESKTOP-OJGFFNM.14012.39" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645003034.DESKTOP-OJGFFNM.14012.40" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645003060.DESKTOP-OJGFFNM.14012.41" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645003085.DESKTOP-OJGFFNM.14012.42" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645003112.DESKTOP-OJGFFNM.14012.43" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645003139.DESKTOP-OJGFFNM.14012.44" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645003164.DESKTOP-OJGFFNM.14012.45" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645003190.DESKTOP-OJGFFNM.14012.46" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645003216.DESKTOP-OJGFFNM.14012.47" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645003241.DESKTOP-OJGFFNM.14012.48" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645003267.DESKTOP-OJGFFNM.14012.49" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645003292.DESKTOP-OJGFFNM.14012.50" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645003319.DESKTOP-OJGFFNM.14012.51" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645003345.DESKTOP-OJGFFNM.14012.52" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645003371.DESKTOP-OJGFFNM.14012.53" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645003950.DESKTOP-OJGFFNM.12892.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/logs/PPO_0/events.out.tfevents.1645003970.DESKTOP-OJGFFNM.12892.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/100000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/1000000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/1020000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/1040000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/1060000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/120000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/140000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/160000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/180000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/20000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/200000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/220000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/240000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/260000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/280000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/300000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/320000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/340000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/360000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/380000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/40000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/400000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/420000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/440000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/460000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/480000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/500000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/520000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/540000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/560000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/580000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/60000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/600000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/620000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/640000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/660000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/680000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/700000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/720000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/740000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/760000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/780000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/80000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/800000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/820000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/840000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/860000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/880000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/900000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/920000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/940000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/960000.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunarLander/models/PPO/980000.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nasa_api_apod/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../nasa_api_apod/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +33,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/LunarLander/test.py" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="test" type="PythonConfigurationType" factoryName="Python">
@@ -185,6 +75,17 @@
       <updated>1644947510844</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
