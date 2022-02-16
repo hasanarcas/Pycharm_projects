@@ -1,43 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1044b1c9-098c-4ce5-8221-4ca38a49384d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nasa_api_apod/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/nasa_api_apod/main.py" afterDir="false" />
+    <list default="true" id="901238b9-fa50-435e-bb1c-47996ba79ac2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nasa_api_apod/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../nasa_api_apod/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectId" id="21BL2gf3BL9IiBcsdDGnLGfKUp1" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="259m7grRDrXsQlcL33TEIlI87ZQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/nasa_api_apod/main.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LunarLander/test.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
-      <module name="pyCharm Projects" />
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
+      <module name="ReinforcementLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\hasan\anaconda3\envs\DataScience\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nasa_api_apod" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LunarLander" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nasa_api_apod/main.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\hasan\Desktop\Projects\Python Projects\Pycharm_projects\ReinforcementLearning\LunarLander\PPO_model_save.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -50,12 +59,15 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1044b1c9-098c-4ce5-8221-4ca38a49384d" name="Changes" comment="" />
-      <created>1637409331879</created>
+      <changelist id="901238b9-fa50-435e-bb1c-47996ba79ac2" name="Changes" comment="" />
+      <created>1644947510844</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1637409331879</updated>
+      <updated>1644947510844</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

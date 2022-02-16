@@ -9,7 +9,7 @@ api_key = "QNiqK7NtFFA9SCe4O84PiAVTPg5SKTLxbs538Dzn"
 
 def fetchAPOD():
     URL_APOD = "https://api.nasa.gov/planetary/apod"
-    date= "2021-11-21"
+    date= "2021-11-24"
     params = {
         'api_key': api_key,
         'date': date,
@@ -18,9 +18,9 @@ def fetchAPOD():
     response = requests.get(URL_APOD, params=params).json()
     return response
 
-#responseAPOD = fetchAPOD()
-#open_url_apod = responseAPOD["hdurl"]
-#webbrowser.open(open_url_apod)
+responseAPOD = fetchAPOD()
+open_url_apod = responseAPOD["hdurl"]
+webbrowser.open(open_url_apod)
 
 
 def fetchAsteroidsNeows():
