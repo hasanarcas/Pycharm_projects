@@ -13,7 +13,7 @@ if not os.path.exists(log_dir):
 env = gym.make("LunarLander-v2")
 env.reset()
 
-model = PPO("MlpPolicy", env , verbose=1, tensorboard_log=log_dir)
+model = PPO("MlpPolicy", env , verbose=1, tensorboard_log=log_dir, device= "cuda")
 
 TIMESTEPS = 20000
 i = 1
